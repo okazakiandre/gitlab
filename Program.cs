@@ -6,6 +6,7 @@ namespace GitLab
     {
         static void Main(string[] args)
         {
+            var x = "";	
             Console.WriteLine("Testando as classes:");
             Console.WriteLine($"{new Classe01().Metodo1()} / {new Classe01().Metodo1V2()}");
             Console.WriteLine($"{new Classe02().Metodo2()} / {new Classe02().Metodo2V2()}");
