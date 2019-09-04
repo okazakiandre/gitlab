@@ -14,6 +14,7 @@ namespace GitLab
 
         public int Metodo1V2()
         {
+            var y = 0;
             return 2;
         }
     }
