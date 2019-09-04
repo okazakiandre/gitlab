@@ -8,6 +8,7 @@ namespace GitLab
     {
         public int Metodo1()
         {
+            var x = "";
             return 1;
         }
 
