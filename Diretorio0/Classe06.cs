@@ -11,9 +11,9 @@ namespace GitLab
             return 6;
         }
 
-        public int Metodo6V3()
+        public int Metodo6V5()
         {
-            return Metodo6() * 3;
+            return Metodo6() * 5;
         }
     }
 }
