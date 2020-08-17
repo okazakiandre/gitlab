@@ -17,5 +17,10 @@ namespace GitLab
             var y = 0;
             return 2;
         }
+
+        public string NovoMetodo1()
+        {
+            return "corrigindo retorno do novo metodo 1";
+        }
     }
 }
