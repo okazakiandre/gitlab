@@ -20,7 +20,7 @@ namespace GitLab
 
         public string NovoMetodo1()
         {
-            return "testando novo metodo 1 com outro valor";
+            return "corrigindo retorno do novo metodo 1";
         }
     }
 }
