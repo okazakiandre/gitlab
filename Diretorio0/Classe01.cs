@@ -17,5 +17,10 @@ namespace GitLab
             var y = 0;
             return 2;
         }
+
+        public string NovoMetodo1()
+        {
+            return "testando novo metodo 1";
+        }
     }
 }

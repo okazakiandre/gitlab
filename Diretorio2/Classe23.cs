@@ -15,5 +15,10 @@ namespace GitLab
         {
             return 46;
         }
+
+        public string NovoMetodo23()
+        {
+            return "testando novo metodo 23";
+        }
     }
 }
