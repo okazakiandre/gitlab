@@ -8,7 +8,7 @@ namespace GitLab
     {
         public int Metodo1()
         {
-            var x = "alteracao de nova funcionalidade";
+            var x = "";
             return 1;
         }
 
@@ -20,7 +20,7 @@ namespace GitLab
 
         public string NovoMetodo1()
         {
-            return "alterando retorno do novo metodo 1";
+            return "corrigindo retorno do novo metodo 1";
         }
     }
 }
